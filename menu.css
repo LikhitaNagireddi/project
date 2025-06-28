@@ -1,0 +1,174 @@
+.m1{
+margin-top:20px;
+
+margin-left:5vh;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+    background-color: grey;
+   }
+   .f3{
+       margin-right: 6vh;
+   }
+   .f4{
+       margin-right: 6vh;
+   }
+   .f5{
+       margin-right: 6vh;
+   }
+   .f6{
+       margin-right: 6vh;
+   }
+   .f7{
+       margin-right: 6vh;}
+    .m2{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 1px;
+    }
+    .n1{
+        margin-right: 6vh;
+    }
+    .n2{
+        margin-right: 6vh;
+    }
+    .n3{
+        margin-right: 6vh;
+    }
+    .n4{
+        margin-right: 6vh;
+    }
+    .m3{
+        justify-content: center;
+        font-style: oblique;
+      
+    }
+.vv{
+    font-size: medium;
+  
+}
+.v{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;}
+
+.fry{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;
+}
+.c{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;
+}
+.c2{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;   
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.t{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;   
+}
+  .p{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;   
+  }
+  .u{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;    
+  }
+  .m{
+    margin-left:15vh;
+    margin-top: 1px;
+padding:1px;   
+  }
+  .main2{
+    display: flex;
+    flex-direction: row;
+  }
+  .i{
+    background-color:rgba(94, 40, 4, 0.738);
+  }
+  .l2{
+    color:black;
+    text-decoration:none;
+    }
+    .l4{
+        color:black;
+        text-decoration:none;
+    }
+    .l5{
+        color:black;
+        text-decoration:none;
+    }
+    .q3{      
+        color:black;
+        text-decoration: none;}
+        .qq2{
+            color:black;
+            text-decoration: none; 
+        }
+        .qq4{
+            color:black;
+        text-decoration: none;
+        }
+  .qq6{
+    color:black;
+    text-decoration: none;
+  }
+  .cmb{
+    color: black;
+    text-decoration: none;
+  }    
+  .cfb{
+    color: black;
+    text-decoration: none; 
+  }  
+  .cb{
+     color: black;
+    text-decoration: none;
+  }
+  .cfr{
+     color: black;
+    text-decoration: none;
+  }
+  .ctb{
+     color: black;
+    text-decoration: none;
+  }
+  .pb{
+     color: black;
+    text-decoration: none;
+  }
+  .uvb{
+     color: black;
+    text-decoration: none;
+  }
+  .cfp{
+     color: black;
+    text-decoration: none;
+  }
+  .mvb{
+     color: black;
+    text-decoration: none;
+  }
+  .v.food-item {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      overflow: hidden;
+      cursor: pointer;
+      transition: 0.3s;
+    }
